@@ -1,0 +1,17 @@
+.tables{
+  margin-left: 5%;
+}
+.nav{
+  margin-left: 5%;
+  
+}
+.compare{
+  display: flex;
+ justify-content: center;
+}
+.disabled-link {
+  pointer-events: none;
+}
+.table{
+  margin: 2%;
+}
